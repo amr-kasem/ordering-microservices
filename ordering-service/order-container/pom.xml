@@ -13,5 +13,27 @@
 
     <properties>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.auk</groupId>
+            <artifactId>order-domain-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.auk</groupId>
+            <artifactId>order-application-service</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.auk</groupId>
+            <artifactId>order-data-access</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.auk</groupId>
+            <artifactId>order-application</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.auk</groupId>
+            <artifactId>order-messaging</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>

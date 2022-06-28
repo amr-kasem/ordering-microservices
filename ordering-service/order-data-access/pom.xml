@@ -13,5 +13,11 @@
 
     <properties>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.auk</groupId>
+            <artifactId>order-application-service</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
